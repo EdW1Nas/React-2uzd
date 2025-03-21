@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Edvinas\\Desktop\\Kolegija\\3 Kursas\\3 Kursas (Pavasaris)\\React\\2uzd\\2prakt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B66DF65-34F3-D737-BBC1-310E2F11F747}|2prakt\\2prakt.esproj|c:\\users\\edvinas\\desktop\\kolegija\\3 kursas\\3 kursas (pavasaris)\\react\\2uzd\\2prakt\\2prakt\\src\\components\\login.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7B66DF65-34F3-D737-BBC1-310E2F11F747}|2prakt\\2prakt.esproj|solutionrelative:2prakt\\src\\components\\login.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B66DF65-34F3-D737-BBC1-310E2F11F747}|2prakt\\2prakt.esproj|c:\\users\\edvinas\\desktop\\kolegija\\3 kursas\\3 kursas (pavasaris)\\react\\2uzd\\2prakt\\2prakt\\src\\components\\register.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7B66DF65-34F3-D737-BBC1-310E2F11F747}|2prakt\\2prakt.esproj|solutionrelative:2prakt\\src\\components\\register.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B66DF65-34F3-D737-BBC1-310E2F11F747}|2prakt\\2prakt.esproj|c:\\users\\edvinas\\desktop\\kolegija\\3 kursas\\3 kursas (pavasaris)\\react\\2uzd\\2prakt\\2prakt\\src\\components\\homepage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7B66DF65-34F3-D737-BBC1-310E2F11F747}|2prakt\\2prakt.esproj|solutionrelative:2prakt\\src\\components\\homepage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B66DF65-34F3-D737-BBC1-310E2F11F747}|2prakt\\2prakt.esproj|c:\\users\\edvinas\\desktop\\kolegija\\3 kursas\\3 kursas (pavasaris)\\react\\2uzd\\2prakt\\2prakt\\src\\components\\protectedroute.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7B66DF65-34F3-D737-BBC1-310E2F11F747}|2prakt\\2prakt.esproj|solutionrelative:2prakt\\src\\components\\protectedroute.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B66DF65-34F3-D737-BBC1-310E2F11F747}|2prakt\\2prakt.esproj|c:\\users\\edvinas\\desktop\\kolegija\\3 kursas\\3 kursas (pavasaris)\\react\\2uzd\\2prakt\\2prakt\\context\\authprovider.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7B66DF65-34F3-D737-BBC1-310E2F11F747}|2prakt\\2prakt.esproj|solutionrelative:2prakt\\context\\authprovider.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B66DF65-34F3-D737-BBC1-310E2F11F747}|2prakt\\2prakt.esproj|c:\\users\\edvinas\\desktop\\kolegija\\3 kursas\\3 kursas (pavasaris)\\react\\2uzd\\2prakt\\2prakt\\backend\\db.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7B66DF65-34F3-D737-BBC1-310E2F11F747}|2prakt\\2prakt.esproj|solutionrelative:2prakt\\backend\\db.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B66DF65-34F3-D737-BBC1-310E2F11F747}|2prakt\\2prakt.esproj|c:\\users\\edvinas\\desktop\\kolegija\\3 kursas\\3 kursas (pavasaris)\\react\\2uzd\\2prakt\\2prakt\\src\\components\\dashboard.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7B66DF65-34F3-D737-BBC1-310E2F11F747}|2prakt\\2prakt.esproj|solutionrelative:2prakt\\src\\components\\dashboard.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B66DF65-34F3-D737-BBC1-310E2F11F747}|2prakt\\2prakt.esproj|c:\\users\\edvinas\\desktop\\kolegija\\3 kursas\\3 kursas (pavasaris)\\react\\2uzd\\2prakt\\2prakt\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7B66DF65-34F3-D737-BBC1-310E2F11F747}|2prakt\\2prakt.esproj|solutionrelative:2prakt\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "db.json",
+              "DocumentMoniker": "C:\\Users\\Edvinas\\Desktop\\Kolegija\\3 Kursas\\3 Kursas (Pavasaris)\\React\\2uzd\\2prakt\\2prakt\\backend\\db.json",
+              "RelativeDocumentMoniker": "2prakt\\backend\\db.json",
+              "ToolTip": "C:\\Users\\Edvinas\\Desktop\\Kolegija\\3 Kursas\\3 Kursas (Pavasaris)\\React\\2uzd\\2prakt\\2prakt\\backend\\db.json",
+              "RelativeToolTip": "2prakt\\backend\\db.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-21T04:52:26.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "dashboard.jsx",
+              "DocumentMoniker": "C:\\Users\\Edvinas\\Desktop\\Kolegija\\3 Kursas\\3 Kursas (Pavasaris)\\React\\2uzd\\2prakt\\2prakt\\src\\components\\dashboard.jsx",
+              "RelativeDocumentMoniker": "2prakt\\src\\components\\dashboard.jsx",
+              "ToolTip": "C:\\Users\\Edvinas\\Desktop\\Kolegija\\3 Kursas\\3 Kursas (Pavasaris)\\React\\2uzd\\2prakt\\2prakt\\src\\components\\dashboard.jsx",
+              "RelativeToolTip": "2prakt\\src\\components\\dashboard.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-03-21T04:42:04.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\Edvinas\\Desktop\\Kolegija\\3 Kursas\\3 Kursas (Pavasaris)\\React\\2uzd\\2prakt\\2prakt\\src\\App.jsx",
+              "RelativeDocumentMoniker": "2prakt\\src\\App.jsx",
+              "ToolTip": "C:\\Users\\Edvinas\\Desktop\\Kolegija\\3 Kursas\\3 Kursas (Pavasaris)\\React\\2uzd\\2prakt\\2prakt\\src\\App.jsx",
+              "RelativeToolTip": "2prakt\\src\\App.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-03-21T04:40:31.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProtectedRoute.jsx",
+              "DocumentMoniker": "C:\\Users\\Edvinas\\Desktop\\Kolegija\\3 Kursas\\3 Kursas (Pavasaris)\\React\\2uzd\\2prakt\\2prakt\\src\\components\\ProtectedRoute.jsx",
+              "RelativeDocumentMoniker": "2prakt\\src\\components\\ProtectedRoute.jsx",
+              "ToolTip": "C:\\Users\\Edvinas\\Desktop\\Kolegija\\3 Kursas\\3 Kursas (Pavasaris)\\React\\2uzd\\2prakt\\2prakt\\src\\components\\ProtectedRoute.jsx",
+              "RelativeToolTip": "2prakt\\src\\components\\ProtectedRoute.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-03-21T04:40:18.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthProvider.jsx",
+              "DocumentMoniker": "C:\\Users\\Edvinas\\Desktop\\Kolegija\\3 Kursas\\3 Kursas (Pavasaris)\\React\\2uzd\\2prakt\\2prakt\\context\\AuthProvider.jsx",
+              "RelativeDocumentMoniker": "2prakt\\context\\AuthProvider.jsx",
+              "ToolTip": "C:\\Users\\Edvinas\\Desktop\\Kolegija\\3 Kursas\\3 Kursas (Pavasaris)\\React\\2uzd\\2prakt\\2prakt\\context\\AuthProvider.jsx",
+              "RelativeToolTip": "2prakt\\context\\AuthProvider.jsx",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-03-21T04:39:31.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "register.jsx",
+              "DocumentMoniker": "C:\\Users\\Edvinas\\Desktop\\Kolegija\\3 Kursas\\3 Kursas (Pavasaris)\\React\\2uzd\\2prakt\\2prakt\\src\\components\\register.jsx",
+              "RelativeDocumentMoniker": "2prakt\\src\\components\\register.jsx",
+              "ToolTip": "C:\\Users\\Edvinas\\Desktop\\Kolegija\\3 Kursas\\3 Kursas (Pavasaris)\\React\\2uzd\\2prakt\\2prakt\\src\\components\\register.jsx",
+              "RelativeToolTip": "2prakt\\src\\components\\register.jsx",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-03-21T04:39:28.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "login.jsx",
+              "DocumentMoniker": "C:\\Users\\Edvinas\\Desktop\\Kolegija\\3 Kursas\\3 Kursas (Pavasaris)\\React\\2uzd\\2prakt\\2prakt\\src\\components\\login.jsx",
+              "RelativeDocumentMoniker": "2prakt\\src\\components\\login.jsx",
+              "ToolTip": "C:\\Users\\Edvinas\\Desktop\\Kolegija\\3 Kursas\\3 Kursas (Pavasaris)\\React\\2uzd\\2prakt\\2prakt\\src\\components\\login.jsx",
+              "RelativeToolTip": "2prakt\\src\\components\\login.jsx",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAQwB4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-03-21T04:39:26.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomePage.jsx",
+              "DocumentMoniker": "C:\\Users\\Edvinas\\Desktop\\Kolegija\\3 Kursas\\3 Kursas (Pavasaris)\\React\\2uzd\\2prakt\\2prakt\\src\\components\\HomePage.jsx",
+              "RelativeDocumentMoniker": "2prakt\\src\\components\\HomePage.jsx",
+              "ToolTip": "C:\\Users\\Edvinas\\Desktop\\Kolegija\\3 Kursas\\3 Kursas (Pavasaris)\\React\\2uzd\\2prakt\\2prakt\\src\\components\\HomePage.jsx",
+              "RelativeToolTip": "2prakt\\src\\components\\HomePage.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-03-21T04:37:43.775Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
